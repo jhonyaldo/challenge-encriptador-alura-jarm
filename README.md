@@ -60,7 +60,7 @@ Al ingresar al sitio, encontrarás un cuadro de texto en la parte izquierda de l
 
 ### 5. Cargar la Página Inicial:
 
-- Puedes regresar a la página inicial haciendo clic en el logo de Alura, ubicado en la parte superior derecha. [![Alura](assets/Logo.png)](...)
+- Puedes regresar a la página inicial haciendo clic en el logo de Alura, ubicado en la parte superior derecha. [![Alura](assets/Logo.png)]
 
 ## Agradecimientos:
 
